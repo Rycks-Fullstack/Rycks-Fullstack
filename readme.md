@@ -4,7 +4,7 @@
 <!--                    HEADER BANNER                    -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Rayson%20Lopez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=NickRazor%20_%20IT%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Rayson%20Lopez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Rycks-Fullstack%20_%20IT%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Arquitectura+de+Redes+y+Desarrollo+Backend.;OSPF+%7C+BGP+%7C+MPLS+L3VPN+%7C+EVE-NG;Python+%7C+C%23+%7C+Flask+%7C+ASP.NET;Kali+Linux+%7C+Ansible+%7C+Docker+%7C+HTB;Estudiante+ESPE+%E2%80%94+Fuerzas+Armadas+del+Ecuador)](https://git.io/typing-svg)
@@ -12,8 +12,8 @@
 <br/>
 
 <!-- Profile views + followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=NickRazor&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/NickRazor?style=for-the-badge&color=7c3aed&labelColor=0d1520&label=FOLLOWERS)](https://github.com/NickRazor)
+![Profile Views](https://komarev.com/ghpvc/?username=Rycks-Fullstack&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Rycks-Fullstack?style=for-the-badge&color=7c3aed&labelColor=0d1520&label=FOLLOWERS)](https://github.com/Rycks-Fullstack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stvrays-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stvrays/)
 
 </div>
@@ -92,12 +92,12 @@ $ ping rayson --verbose
 
 ## `~/git-stats`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickRazor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickRazor&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&text_color=e2e8f0&border_radius=10&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rycks-Fullstack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&icon_color=7c3aed&text_color=e2e8f0&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rycks-Fullstack&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00d4ff&text_color=e2e8f0&border_radius=10&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=NickRazor&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=64748b&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=Rycks-Fullstack&theme=tokyonight&hide_border=true&background=050a0f&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=64748b&border_radius=10" />
 
 </div>
 
@@ -167,9 +167,9 @@ Auditorías de seguridad en Hack The Box. Análisis de vulnerabilidades, estegan
 ## `~/git-activity`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickRazor/NickRazor/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickRazor/NickRazor/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NickRazor/NickRazor/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rycks-Fullstack/Rycks-Fullstack/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rycks-Fullstack/Rycks-Fullstack/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rycks-Fullstack/Rycks-Fullstack/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 > _"La red no se rompe — se rediseña."_
@@ -202,7 +202,7 @@ Auditorías de seguridad en Hack The Box. Análisis de vulnerabilidades, estegan
 
 ## `~/contacto`
 
-[![GitHub](https://img.shields.io/badge/GitHub-NickRazor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickRazor)
+[![GitHub](https://img.shields.io/badge/GitHub-Rycks--Fullstack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rycks-Fullstack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stvrays-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stvrays/)
 [![Email](https://img.shields.io/badge/Email-stevenl32003%40hotmail.com-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:stevenl32003@hotmail.com)
 
